@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Robot from "../assets/ROBOT.png";
+import Robot from "../assets/robot.png";
 
 function Hero() {
   return (
